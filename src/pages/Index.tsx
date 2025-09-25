@@ -76,7 +76,7 @@ const Index = () => {
                      Help Turn Everyday
                     <span className="text-[#EA384C] font-extrabold"> Experiences </span> 
                     into 
-                    <span className="text-convrt-purple font-extrabold"> Actionable Insight </span>?
+                    <span className="text-convrt-purple font-extrabold"> Actionable Insight </span>
                   </h2>
                   
                   <p className="text-lg text-gray-100 mb-8">
