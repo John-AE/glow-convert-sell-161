@@ -30,7 +30,7 @@ const Navbar = () => {
           <a href="/" className="flex items-center">
             <img 
               src="/lovable-uploads/ce207080-f6c2-430d-9621-79d32ab08655.png" 
-              alt="Convrt.ai Logo" 
+              alt="ResearchEye Logo" 
               className="h-8 md:h-10"
             />
           </a>
@@ -39,7 +39,7 @@ const Navbar = () => {
         {/* Desktop Menu */}
         <div className="hidden md:flex items-center space-x-8">
           <a href="#how-it-works" className="text-convrt-dark-blue/80 hover:text-convrt-dark-blue font-medium transition-colors">
-            How It Works
+            How We Work
           </a>
           <a href="#testimonials" className="text-convrt-dark-blue/80 hover:text-convrt-dark-blue font-medium transition-colors">
             Case Studies
@@ -51,7 +51,7 @@ const Navbar = () => {
             Pricing
           </a>
           <a href="#cta" className="button-primary">
-            Get Started
+            Take Survey
           </a>
         </div>
         
@@ -101,7 +101,7 @@ const Navbar = () => {
               className="button-primary w-full text-center"
               onClick={() => setIsMobileMenuOpen(false)}
             >
-              Get Started
+              Take Survey
             </a>
           </div>
         </div>
