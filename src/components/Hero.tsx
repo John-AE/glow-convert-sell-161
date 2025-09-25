@@ -61,7 +61,7 @@ const Hero = () => {
             variants={itemVariants}
             className="font-inter text-xl text-convrt-dark-blue/80 max-w-3xl mx-auto mb-8 leading-relaxed"
           >
-            Bringing Insight to Erode Ignorance
+            From Surveys to Clarity: Knowledge that Empowers
           </motion.p>
           
           <motion.div 
