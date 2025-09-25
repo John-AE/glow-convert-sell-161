@@ -69,11 +69,11 @@ const Hero = () => {
             className="flex flex-col sm:flex-row justify-center items-center gap-4 mb-16"
           >
             <a href="#cta" className="button-primary flex items-center group font-inter font-medium">
-              Get Started
+              Start Survey
               <ArrowRight className="ml-2 w-5 h-5 transition-transform group-hover:translate-x-1" />
             </a>
             <a href="#how-it-works" className="button-outline font-inter">
-              See How It Works
+              Understand How We Work
             </a>
           </motion.div>
           
