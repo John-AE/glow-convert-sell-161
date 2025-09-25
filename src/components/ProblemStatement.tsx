@@ -35,22 +35,22 @@ const ProblemStatement = () => {
           className="max-w-3xl mx-auto text-center mb-12"
         >
           <motion.div variants={itemVariants} className="section-tag">
-            Why Traditional Outbound Is Dead
+            Why Reliable Insights Matter
           </motion.div>
           
           <motion.h2 
             variants={itemVariants}
             className="heading-lg text-convrt-dark-blue mb-6"
           >
-            Cold Outreach Doesn't Work Anymore. <br />
-            <span className="text-convrt-purple font-extrabold">AI Organic Outbound</span> Does.
+            Guesswork Falls Short. <br />
+            <span className="text-convrt-purple font-extrabold">Research-Driven Surveys</span> Deliver Clarity.
           </motion.h2>
           
           <motion.p 
             variants={itemVariants}
             className="text-convrt-dark-blue/80 text-lg mb-8 max-w-2xl mx-auto"
           >
-            The days of cold calls and emails are over. Today's buyers expect personalized engagement from people they trust. Convrt.ai puts you exactly where your buyers make decisions.
+             Opinions without data can mislead. ResearchEye engages real people through targeted email surveys, turning their perspectives into actionable insights for smarter decisions.
           </motion.p>
         </motion.div>
         
