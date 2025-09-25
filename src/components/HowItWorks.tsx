@@ -47,10 +47,10 @@ const HowItWorks = () => {
       <div className="container-section py-4">
         <div className="max-w-3xl mx-auto text-center mb-6">
           <div className="section-tag">
-            From Ignored to Trusted
+            From Ignorance to Insight
           </div>
           <h2 className="heading-lg text-convrt-dark-blue mb-4">
-            How <span className="gradient-text">Convrt.ai</span> Works in 3 Steps
+            How <span className="gradient-text">ResearchEye</span> Executes Fact-Finding
           </h2>
           <p className="text-convrt-dark-blue/80 text-lg max-w-2xl mx-auto">
             Our AI-driven platform automates social engagement for your sales and GTM teams, transforming cold outreach into warm connections.
