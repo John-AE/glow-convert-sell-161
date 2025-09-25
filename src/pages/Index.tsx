@@ -74,9 +74,9 @@ const Index = () => {
                   
                   <h2 className="text-3xl md:text-4xl font-bold mb-6 leading-tight">
                     Ready to Move from 
-                    <span className="text-[#EA384C] font-extrabold"> Ignored </span> 
+                    <span className="text-[#EA384C] font-extrabold"> Ignorance </span> 
                     to 
-                    <span className="text-convrt-purple font-extrabold"> Influential</span>?
+                    <span className="text-convrt-purple font-extrabold"> Insight </span>?
                   </h2>
                   
                   <p className="text-lg text-gray-100 mb-8">
@@ -97,7 +97,7 @@ const Index = () => {
                   </div>
                   
                   <motion.a
-                    href="https://www.convrt.ai/book-demo"
+                    href="https://tally.so/r/waqpvb"
                     target="_blank"
                     rel="noopener noreferrer"
                     initial={{ scale: 0.9, opacity: 0 }}
@@ -106,7 +106,7 @@ const Index = () => {
                     viewport={{ once: true }}
                     className="button-primary flex items-center text-lg px-8 py-4 shadow-lg shadow-convrt-purple/10 hover:shadow-xl hover:shadow-convrt-purple/20 rounded-full group"
                   >
-                    Start Free – No Credit Card Needed
+                    Start Survey – Electricity Tariff in Lagos Survey
                     <ArrowRight className="ml-2 w-5 h-5 transition-transform group-hover:translate-x-1" />
                   </motion.a>
                 </motion.div>
@@ -126,8 +126,8 @@ const Index = () => {
               viewport={{ once: true }}
               className="mb-6 md:mb-0"
             >
-              <h3 className="text-2xl font-bold text-convrt-dark-blue">Convrt.ai</h3>
-              <p className="text-sm text-gray-600 mt-2">© {new Date().getFullYear()} Convrt.ai. All rights reserved.</p>
+              <h3 className="text-2xl font-bold text-convrt-dark-blue">ResearchEye</h3>
+              <p className="text-sm text-gray-600 mt-2">© {new Date().getFullYear()} ResearchEye. All rights reserved.</p>
             </motion.div>
             
             <motion.div 
