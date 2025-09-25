@@ -53,7 +53,7 @@ const HowItWorks = () => {
             How <span className="gradient-text">ResearchEye</span> Executes Fact-Finding
           </h2>
           <p className="text-convrt-dark-blue/80 text-lg max-w-2xl mx-auto">
-            We seek to discover insights by reaching out to the general public to obtain their views, experiences, then aggreage the information and gather insight with an aim to advance the frontiers of knowledge.
+            ResearchEye uncovers insights by engaging the public, collecting their views and experiences, and transforming this data into knowledge that drives progress.
           </p>
         </div>
         
