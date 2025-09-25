@@ -72,7 +72,7 @@ const ProblemStatement = () => {
             </div>
             
             <h3 className="heading-sm text-convrt-dark-blue mb-8 flex items-center">
-              Traditional Cold Outbound
+               Traditional Research Methods
             </h3>
             
             <ul className="space-y-6">
@@ -81,8 +81,8 @@ const ProblemStatement = () => {
                   <X className="w-4 h-4 text-[#EA384C]" />
                 </div>
                 <div>
-                  <p className="font-semibold text-lg text-convrt-dark-blue">1% cold email response rates</p>
-                  <p className="text-convrt-dark-blue/70 mt-1">Millions of emails sent, almost all ignored</p>
+                  <p className="font-semibold text-lg text-convrt-dark-blue">Slow data collection</p>
+                  <p className="text-convrt-dark-blue/70 mt-1">Paper surveys and manual outreach delay results.</p>
                 </div>
               </li>
               
@@ -91,8 +91,8 @@ const ProblemStatement = () => {
                   <X className="w-4 h-4 text-[#EA384C]" />
                 </div>
                 <div>
-                  <p className="font-semibold text-lg text-convrt-dark-blue">80% of calls screened out</p>
-                  <p className="text-convrt-dark-blue/70 mt-1">Decision makers don't take cold calls</p>
+                  <p className="font-semibold text-lg text-convrt-dark-blue">Limited reach</p>
+                  <p className="text-convrt-dark-blue/70 mt-1">Small, local samples fail to reflect wider opinion.</p>
                 </div>
               </li>
               
@@ -101,8 +101,8 @@ const ProblemStatement = () => {
                   <X className="w-4 h-4 text-[#EA384C]" />
                 </div>
                 <div>
-                  <p className="font-semibold text-lg text-convrt-dark-blue">No relationship before outreach</p>
-                  <p className="text-convrt-dark-blue/70 mt-1">Cold outreach feels impersonal and salesy</p>
+                  <p className="font-semibold text-lg text-convrt-dark-blue">Hard to analyze</p>
+                  <p className="text-convrt-dark-blue/70 mt-1">Manual data entry increases errors and slows insight.</p>
                 </div>
               </li>
             </ul>
@@ -110,24 +110,24 @@ const ProblemStatement = () => {
             <div className="mt-12 grid grid-cols-3 gap-4">
               <div className="aspect-square flex flex-col items-center justify-center bg-red-50 rounded-xl p-3">
                 <PhoneCall className="w-8 h-8 text-[#EA384C] mb-2" />
-                <div className="text-sm text-center text-[#EA384C] font-medium">Cold Calls</div>
+                <div className="text-sm text-center text-[#EA384C] font-medium">Phone Surveys</div>
               </div>
               
               <div className="aspect-square flex flex-col items-center justify-center bg-red-50 rounded-xl p-3">
                 <Mail className="w-8 h-8 text-[#EA384C] mb-2" />
-                <div className="text-sm text-center text-[#EA384C] font-medium">Mass Emails</div>
+                <div className="text-sm text-center text-[#EA384C] font-medium">Paper Forms</div>
               </div>
               
               <div className="aspect-square flex flex-col items-center justify-center bg-red-50 rounded-xl p-3">
                 <MessageSquare className="w-8 h-8 text-[#EA384C] mb-2" />
-                <div className="text-sm text-center text-[#EA384C] font-medium">Generic Messages</div>
+                <div className="text-sm text-center text-[#EA384C] font-medium">Limited Feedback</div>
               </div>
             </div>
             
             <div className="absolute -bottom-1 left-0 right-0 h-1 bg-[#EA384C]"></div>
           </motion.div>
           
-          {/* AI Organic Outbound - simplified box */}
+          {/* ResearchEye Digital Surveys - simplified box */}
           <motion.div 
             variants={itemVariants}
             whileHover={{ y: -5 }}
@@ -138,8 +138,8 @@ const ProblemStatement = () => {
             </div>
             
             <h3 className="heading-sm text-convrt-dark-blue mb-8 flex items-center">
-              AI Organic Outbound
-              <span className="ml-2 px-2 py-0.5 text-xs font-medium bg-convrt-purple/10 text-convrt-purple rounded-full">Convrt.ai</span>
+              ResearchEye Digital Surveys
+              <span className="ml-2 px-2 py-0.5 text-xs font-medium bg-convrt-purple/10 text-convrt-purple rounded-full">ResearchEye</span>
             </h3>
             
             <ul className="space-y-6">
@@ -148,8 +148,8 @@ const ProblemStatement = () => {
                   <Check className="w-4 h-4 text-convrt-purple" />
                 </div>
                 <div>
-                  <p className="font-semibold text-lg text-convrt-dark-blue">15x higher conversion rates</p>
-                  <p className="text-convrt-dark-blue/70 mt-1">Build trust before you reach out</p>
+                  <p className="font-semibold text-lg text-convrt-dark-blue">Rapid, wide-reach surveys</p>
+                  <p className="text-convrt-dark-blue/70 mt-1">Email campaigns connect with large, diverse audiences fast.</p>
                 </div>
               </li>
               
@@ -158,8 +158,8 @@ const ProblemStatement = () => {
                   <Check className="w-4 h-4 text-convrt-purple" />
                 </div>
                 <div>
-                  <p className="font-semibold text-lg text-convrt-dark-blue">Key touchpoints and discussions</p>
-                  <p className="text-convrt-dark-blue/70 mt-1">Tracks the entire buyer's journey</p>
+                  <p className="font-semibold text-lg text-convrt-dark-blue">Real-time data analysis</p>
+                  <p className="text-convrt-dark-blue/70 mt-1">Responses flow directly into dashboards for instant insight.</p>
                 </div>
               </li>
               
@@ -168,8 +168,8 @@ const ProblemStatement = () => {
                   <Check className="w-4 h-4 text-convrt-purple" />
                 </div>
                 <div>
-                  <p className="font-semibold text-lg text-convrt-dark-blue">Fully automated growth hacking</p>
-                  <p className="text-convrt-dark-blue/70 mt-1">Enterprise-grade AI engagement</p>
+                  <p className="font-semibold text-lg text-convrt-dark-blue">Actionable findings</p>
+                  <p className="text-convrt-dark-blue/70 mt-1">Clear, aggregated insights to guide smarter decisions.</p>
                 </div>
               </li>
             </ul>
@@ -177,17 +177,17 @@ const ProblemStatement = () => {
             <div className="mt-12 grid grid-cols-3 gap-4">
               <div className="aspect-square flex flex-col items-center justify-center bg-convrt-purple/5 rounded-xl p-3">
                 <Users className="w-8 h-8 text-convrt-purple mb-2" />
-                <div className="text-sm text-center text-convrt-purple font-medium">Engagement</div>
+                <div className="text-sm text-center text-convrt-purple font-medium">Broad Engagement</div>
               </div>
               
               <div className="aspect-square flex flex-col items-center justify-center bg-convrt-purple/5 rounded-xl p-3">
                 <Zap className="w-8 h-8 text-convrt-purple mb-2" />
-                <div className="text-sm text-center text-convrt-purple font-medium">Trust Building</div>
+                <div className="text-sm text-center text-convrt-purple font-medium">Fast Insights</div>
               </div>
               
               <div className="aspect-square flex flex-col items-center justify-center bg-convrt-purple/5 rounded-xl p-3">
                 <BarChart3 className="w-8 h-8 text-convrt-purple mb-2" />
-                <div className="text-sm text-center text-convrt-purple font-medium">Win More Deals</div>
+                <div className="text-sm text-center text-convrt-purple font-medium">Data-Driven Decisions</div>
               </div>
             </div>
             
