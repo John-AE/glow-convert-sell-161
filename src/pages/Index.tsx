@@ -69,25 +69,25 @@ const Index = () => {
                 >
                   <div className="inline-flex items-center px-4 py-2 rounded-full bg-convrt-purple/20 text-convrt-purple mb-6">
                     <Sparkles className="w-4 h-4 mr-2" />
-                    <span className="text-sm font-medium font-inter tracking-wide">Start Your AI Journey Today</span>
+                    <span className="text-sm font-medium font-inter tracking-wide">Take Part in Real-World Research</span>
                   </div>
                   
                   <h2 className="text-3xl md:text-4xl font-bold mb-6 leading-tight">
-                    Ready to Move from 
-                    <span className="text-[#EA384C] font-extrabold"> Ignorance </span> 
-                    to 
-                    <span className="text-convrt-purple font-extrabold"> Insight </span>?
+                     Help Turn Everyday
+                    <span className="text-[#EA384C] font-extrabold"> Experiences </span> 
+                    into 
+                    <span className="text-convrt-purple font-extrabold"> Actionable Insight </span>?
                   </h2>
                   
                   <p className="text-lg text-gray-100 mb-8">
-                    Join hundreds of sales teams who have transformed their outbound with AI-driven social selling.
+                    Share your perspective and power evidence-based decisions. Your voice adds depth to Lagos electricity-tariff research.
                   </p>
                   
                   <div className="flex flex-col space-y-3 mb-8">
                     {[
-                      "15x higher response rates than cold outreach",
-                      "Build trust before your first message",
-                      "AI-driven personalization at scale"
+                      "Quick 1-minute participation",
+                      "Anonymous and secure responses",
+                      "Direct impact on future energy policy"
                     ].map((benefit, i) => (
                       <div key={i} className="flex items-center">
                         <Check className="w-5 h-5 text-convrt-purple mr-2 flex-shrink-0" />
