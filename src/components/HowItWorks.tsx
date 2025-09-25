@@ -53,7 +53,7 @@ const HowItWorks = () => {
             How <span className="gradient-text">ResearchEye</span> Executes Fact-Finding
           </h2>
           <p className="text-convrt-dark-blue/80 text-lg max-w-2xl mx-auto">
-            Our AI-driven platform automates social engagement for your sales and GTM teams, transforming cold outreach into warm connections.
+            We seek to discover insights by reaching out to the general public to obtain their views, experiences, then aggreage the information and gather insight with an aim to advance the frontiers of knowledge.
           </p>
         </div>
         
