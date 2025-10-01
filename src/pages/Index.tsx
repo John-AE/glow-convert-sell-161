@@ -5,6 +5,7 @@ import Hero from '@/components/Hero';
 import ProblemStatement from '@/components/ProblemStatement';
 import HowItWorks from '@/components/HowItWorks';
 import Testimonials from '@/components/Testimonials';
+import Pricing from '@/components/Pricing';
 import { motion } from 'framer-motion';
 import { ArrowRight, Check, Sparkles } from 'lucide-react';
 
@@ -43,6 +44,7 @@ const Index = () => {
         <ProblemStatement />
         <HowItWorks />
         <Testimonials />
+        <Pricing />
         
         <section className="py-16 px-6" id="cta">
           <div className="container mx-auto max-w-5xl">
